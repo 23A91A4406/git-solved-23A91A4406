@@ -19,5 +19,9 @@
     "replicas": 2,
     "sync_mode": "synchronous"
   },
+<<<<<<< HEAD
   "version":"main-update"
+=======
+  "version": "dev-update"
+>>>>>>> dev
 }
