@@ -18,5 +18,6 @@
     "enabled": true,
     "replicas": 2,
     "sync_mode": "synchronous"
-  }
+  },
+  "version":"main-update"
 }
